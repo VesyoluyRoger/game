@@ -14,3 +14,10 @@ gitinit                          в консоле bash git
 git status                    посмотреть состояние файлов в репозитории
 
 git add .                      добавить все файлы под контроль
+
+
+
+git config --global user.name "никнейм"
+git config --global user.email "почта"
+
+git commit -m "комментарий"
